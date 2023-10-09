@@ -1,4 +1,2 @@
-print('Hello World!')
-
 username = input('Please, enter your name:\n')
 print(f'\n\nHello, {username}!\nNice to see you on my GitHub page!')
